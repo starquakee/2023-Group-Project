@@ -57,10 +57,6 @@ def calculateEquationParameters(x):
     return parameter
 
 
-"""
-对一个size大小的元组初始化为0
-"""
-
 
 def init(size):
     j = 0
